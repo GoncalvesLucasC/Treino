@@ -1,5 +1,5 @@
-import GlobalStyle from "../../css/globalStyles"
-import { Title } from "../../css/Pages/projectsPageStyles"
+import GlobalStyle from "../../CSS/globalStyles"
+import { Title } from "../../CSS/Pages/projectsPageStyles"
 
 function Algo() {
     return (

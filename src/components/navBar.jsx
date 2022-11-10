@@ -1,5 +1,5 @@
 
-import { NavLink, NavMenu, NavItens, Img, Nav } from "../css/Pages/navBarStyles"
+import { NavLink, NavMenu, NavItens, Img, Nav } from "../CSS/Pages/navBarStyles"
 
 function NavBar() {
     return (
@@ -12,12 +12,13 @@ function NavBar() {
                     <NavItens>
                         <NavLink to="/projects">Projects</NavLink>
 
-                        {/* <NavLink></NavLink>
+                        <NavLink>kjdhnuahndyih</NavLink>
 
-                    <NavLink></NavLink> */}
+                        <NavLink>haduiawdhna</NavLink>
+
+                        <NavLink>admidavnyvy</NavLink>
 
                         <NavLink to="/contactPage">Contact</NavLink>
-
                     </NavItens>
 
                 </NavMenu>

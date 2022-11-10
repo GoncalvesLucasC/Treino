@@ -1,5 +1,5 @@
 // import '../CSS/cardStyles.css'
-import { Card } from "../css/Functions/cardStyles"
+import { Card } from "../CSS/Functions/cardStyles"
 
 export function Cadastro({ name, lastName, email, phone, github, time }) {
     return (

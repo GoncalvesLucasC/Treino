@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 
-import { Container, Container2, Title, Inputs, Button } from "../../css/Pages/pageStyles"
+import { Container, Container2, Title, Inputs, Button } from "../../CSS/Pages/pageStyles"
 
-import GlobalStyle from "../../css/globalStyles"
+import GlobalStyle from "../../CSS/globalStyles"
 
 import { Cadastro } from '../../components/cardCreds';
 

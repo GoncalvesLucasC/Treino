@@ -1,5 +1,5 @@
 import React from "react";
-import GlobalStyles from "../css/globalStyles";
+import GlobalStyles from "../CSS/globalStyles";
 
 const Home = () => {
     return (

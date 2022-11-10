@@ -1,6 +1,6 @@
 import React from "react";
-import GlobalStyles from "../css/globalStyles";
-import { UlProjects, ProjectsLink, Title, } from "../css/Pages/projectsPageStyles"
+import GlobalStyles from "../CSS/globalStyles";
+import { UlProjects, ProjectsLink, Title, } from "../CSS/Pages/projectsPageStyles"
 // import PageFunctions from "../Projects/CadastroProject";
 
 
